@@ -43,9 +43,6 @@ env/
 
 # ML
 mlruns/
-models/*.pkl
-models/*.pt
-models/*.pth
 notebooks/mlruns/
 notebooks/mlflow.db
 
